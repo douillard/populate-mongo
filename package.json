@@ -1,0 +1,10 @@
+{
+    "name": "mongo-users",
+    "description": "",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "mongoose": "latest",
+        "path": "latest"
+    }
+}
